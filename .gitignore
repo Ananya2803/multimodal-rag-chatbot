@@ -1,0 +1,24 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# documents and everything extracted from them (never commit)
+*.pdf
+backend/uploads/
+backend/static/images/
+backend/qdrant_db/
+*.pkl
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# node / next
+node_modules/
+.next/
+out/
+
+.DS_Store

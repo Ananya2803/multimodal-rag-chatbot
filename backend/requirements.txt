@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+pdfplumber
+numpy
+huggingface_hub
+pillow
+httpx
+qdrant-client
